@@ -1,1 +1,7 @@
-# structure web pages with HTML
+# structure web page with HTML
+
+### in designing websites the most important thing after passion is the auduince, so understanding your target auduince is a must. so when you ask anyone about the target auduince the answer is the whole world, which is impossible, determining your auduinces and thier target plays a major role in designing the site and orginizing the information in a simple way that the whole auduince inderstand not just the owner, orginizing the site using a card sorting methid to draw a site tree to help desinging and orgnizing the site. colors, size and style are the differntiating factors to reconize information.
+
+### HTML layout is very important for better, easier and mor comperhensive experience in a website. in HTML5 the elements indicates the porpuse of a webpage and discribes its structure. using div elements is boring and tiring , old pc doas not under stand HTML5 need to be told the block-level elements extra javascript is needed for old browsers.
+
+### with new HTML there are extr markup like doctype. 
