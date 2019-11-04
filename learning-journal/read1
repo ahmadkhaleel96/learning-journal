@@ -1,0 +1,13 @@
+## __markdown__
+
+#### markdown is a way to style your text on the web, you can format it like styling the text **Bold** , *Italic* , adding images and much more. as it is known among non-brogrammers that programming luangues are hard and complicated which is fine, but markdown is a very very very simple it is just a regular text with some characters like:
+- _
+- ()
+- []
+
+#### and many more characters provided in the the following link [markdown characters](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax), with sufficient examples to comprehensively understand the characters functions.
+
+
+#### as mentioned above that markdown is just a reguler text with some characters, these characters acts like a command trigger for the computer to understand what it is your request like clicking commands on microsoft word to style font, make lists, tables ...ect. in the case of markdown you use the characters with the regular text to style your work.
+
+#### one of the most well-known sites that uses markdown is github, and github offers something better called flavored markdowns that are only avaliable in description and comment of pulls and command, that include @ mention also **SHA-1** hashes, Issues and pull command.

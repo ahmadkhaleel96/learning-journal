@@ -1,0 +1,14 @@
+## Text editors 
+
+#### text editors are software that you can download or use on your browser to manage text, not just that it can be used to practice coding, but many features are important like:
+
+1. code completaion: where the text editor auto-complete the command, open and auto close the quotation and parathensis and give recommendation for for command to stop typos.
+2. syntax highlighting: where the text editors colorize the text to differ it between commands, copies, comments ...ect. to help with fixing errors and compare texts.
+3. variaty of themes: the ability to change the background color and the text color to stop eye stain and fituge.
+4. extentions: it is like plugins to your text editors that "gives your text editor superpowers".
+
+#### when you use a text editor you must make sure when you write HTML with the file is file.HTML and the same for CSS the file must be file.css, a good thing to use Emmet to help you write faster.
+
+#### Every OS have a stock text editor, on Mac "Text editor", on windows "notepad", on linux there are different text editor depending on the flavor but most famous Gedit.
+
+#### you must know that you do not need **bold**, *italize*, or any styling. because the code doas not need any styling.
