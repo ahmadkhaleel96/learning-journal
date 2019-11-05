@@ -1,1 +1,12 @@
 # color
+
+
+### color is the visual represntation for your site and it is content, as it brings your site to life and invoke emmotions and the mood of your website. you need to make sure that the text is in contrast with the background so your auduince can read the text.
+
+### the color should be easy in the eyes so your auduince feel comfertabl and spend more time in your site and the colors must match the mood of your content. so to pick the colors CSS provides 3 ways of picking the color: 
+
+- color names which is the easiest way but it doas not give a hugh veraity and the RGB values are specified by defult.
+- hex code are used to specify the R: red, G:green, B:blue values to creat the desired color.
+- RGB value which mix the RGB to get the color you desire.
+
+### CSS3 introduced a fourth value to mix, designated by the letter A, which is the value of the opacity of the color, these four value stand for RGBA. and CSS3 give you the ability to use HSL values, with the opacity value too, known as HSLA.
