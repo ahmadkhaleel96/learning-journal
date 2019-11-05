@@ -1,0 +1,7 @@
+# Javascript 
+
+### the most famous languages used by web developers are HTML, CSS, and Javascript. the HTML is the linking page to the CSS and Javascript files, each formming a **layer** with different purpose. HTML, CSS and Javascript are text files with the Javascript having a .js extension.
+
+### HTML reconizes the CSS files with <link> element to load a CSS file. HTML uses HTML <script> element to load the Javascript files.
+
+### The Javascript works with the model of the page of the web page that the browser has created so the Javascript will not change the HTML.  
