@@ -4,4 +4,4 @@
 
 ### to run remote repositories by using *git removes* command. you can see the short names for local branches but to view all remote URLs next to the short names.
 
-### so to work with the data you need to fetch the data you add to the repository by editing it after adding you need to commit chanes then send it back by pushing the repository.
+### so to work with the data you need to fetch the data you add to the repository by editing it after adding you need to commit chanes then send it back by pushing the repository .
